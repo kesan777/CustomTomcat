@@ -15,7 +15,7 @@
     <packaging>pom</packaging>
 
     <properties>
-        <tomcat.version>8.5.49</tomcat.version>
+        <tomcat.version>8.5.50</tomcat.version>
         <jedis.version>3.0.1</jedis.version>
     </properties>
 
